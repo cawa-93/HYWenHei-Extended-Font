@@ -10,3 +10,32 @@
 
 # HYWenHei-Extended-Font
 HYWenHei (Genshin Impact) Font extendet to support additional languages
+
+## Supported Languages
+
+### Additional
+- Ukrainian
+
+### By Original Font
+- Korean
+- English
+- Thai
+- Javanese
+- Italian
+- Cebuano
+- Malagasy
+- Swahili
+- Filipino
+- Vietnamese
+- Simplified Chinese
+- Russian
+- Afrikaans
+- Catalan
+- French
+- German
+- Portuguese
+- Japanese
+- Swedish
+- Kikuyu
+- Chinese (Traditional)
+- Spanish"
