@@ -38,4 +38,9 @@ HYWenHei (Genshin Impact) Font extendet to support additional languages
 - Swedish
 - Kikuyu
 - Chinese (Traditional)
-- Spanish"
+- Spanish
+
+
+## Contribution Guidelines
+
+We welcome contributions to improve the design of glyphs and add new ones to support a broader range of languages.
